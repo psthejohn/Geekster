@@ -1,3 +1,4 @@
+package com.geekster.day2;
 
 public class ValidTriangle {
 

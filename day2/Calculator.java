@@ -1,4 +1,4 @@
-
+package com.geekster.day2;
 public class Calculator {
 
 	public static void main(String args[]) {
@@ -23,6 +23,5 @@ public class Calculator {
 			System.out.println("Please enter a valid character");
 		}
 	}
-	
 
 }
